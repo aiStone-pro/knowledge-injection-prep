@@ -1,5 +1,7 @@
 # Knowledge Injection Prep
 
+> 面向需要知识注入的大模型应用的知识材料准备工具。
+
 这个目录用于集中处理“知识注入前的知识材料准备”，不要再把这类 Excel、提取中间数据和脚本散放在 EduAgent 的 `outputs/` 里。
 
 ## 目录结构
