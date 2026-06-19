@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+tmp/
+*.preview.png
+*.inspect.ndjson
+~$*.xlsx
+
+# 数理化课程标准（官方课标 PDF + 第三方知识点，体积大且含版权材料，不上传）
+docs/数理化课程标准/
